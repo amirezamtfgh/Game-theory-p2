@@ -1,3 +1,3 @@
 import numpy as np
 
-a = np.zeros(11)
+a = np.zeros(31)
